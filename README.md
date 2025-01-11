@@ -22,6 +22,6 @@ mkdir -p data/{raw,baking,final}
 - Editar un archivo
 ```bash
 touch mitexto.tx
-mano mitexto.txt
+nano mitexto.txt
 ```
 
